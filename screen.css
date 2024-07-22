@@ -1,0 +1,167 @@
+﻿
+		/* General */
+
+			* {
+				border-width: 0px;
+	margin: 0;
+	padding: 0;
+}
+
+		/************************/
+
+		/* Main Layout */
+
+			body {
+				background:				#652D5C url('screen.css') repeat-x center top;
+				color:					#FFFFFF;
+				font-family:			"Lucida Grande",Arial,Verdana,sans-serif;
+				font-size:				13px;
+				line-height:			20px;
+			}
+
+			#container {
+				margin: 				0 auto;
+			}
+
+			#header {
+				background:				url("head.jpg") no-repeat top center;
+			 	height:						588px;
+				text-align:       		center;
+				padding:          		0px 0;
+			}
+
+			#main {
+			  margin:          			 0 auto 0 auto;
+			  overflow:        			 hidden;
+			  width:            		 800px;
+			}
+
+			#content {
+				float: 					left;
+				overflow: 				hidden;
+				width: 					466px;
+			}
+
+			#sidebar {
+				float: 					right;
+				width: 					300px;
+			}
+
+			#footer {
+				background:       #000024;
+				border-top:       1px solid #ccc;
+				font-size: 				12px;
+				margin: 					32px auto 0 auto;
+				padding: 					16px 0 ;
+			}
+
+		/************************/
+
+
+/*** Content Styles ***/
+
+		/* General Content Styles */
+
+		a {
+			color: #F99837;
+
+		}
+		a:visited {
+			color: #F99837;
+
+		}
+		a:active {
+			color: #F7ED36;
+
+		}
+
+		a:hover {
+			color: 	#000026;
+
+			text-decoration: none;
+			}
+
+		/************************/
+
+		/* Heading Styles */
+
+
+			h3 {
+				color: 					#5eb0e5;
+				font-size:				16px;
+				font-weight: 			bold;
+				margin:           2px 0 0 0;
+
+			}
+
+			h3#first {
+			  color:            #000024;
+				margin:           0 0 0 0;
+			}
+
+		      h3#second {
+		        color:            #cc3433;
+		      }
+
+		      h3#third {
+		        color:            #000024;
+		      }
+
+		/************************/
+
+		/* Paragraph Styles */
+
+			p {
+				clear: 						both;
+				margin: 					0 0 20px 0;
+			}
+
+			p strong {
+				font-weight: 			normal;
+			}
+
+			p em {
+				color: 						#fff;
+				font-weight: 			bold;
+			}
+
+			#footer p {
+		 		color: 						#652D5C;
+		   	margin:           0 auto;
+		   	text-align:				center;
+				width:            860px;
+			}
+
+			#footer p.disclaimer {
+				color: 						#652D5C;
+				font-size: 				11px;
+			}
+
+		/************************/
+
+
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 11:24:58 Mar 07, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:29:24 Jul 22, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.631
+  exclusion.robots: 0.075
+  exclusion.robots.policy: 0.065
+  esindex: 0.01
+  cdx.remote: 5.135
+  LoadShardBlock: 110.808 (3)
+  PetaboxLoader3.datanode: 134.316 (5)
+  load_resource: 91.216 (2)
+  PetaboxLoader3.resolve: 62.503 (2)
+*/
